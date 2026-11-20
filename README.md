@@ -47,7 +47,7 @@ Comparing **LLM-enhanced text-to-speech** pipelines for **multilingual disaster 
 **🔬 In public**
 - **Sachet Eval** (सचेत, *alert*): open evaluation harness and leaderboard for Nepali LLM + text-to-speech, covering faithfulness, intelligibility, latency and offline readiness *(building)*
 - **Offline alert box**: an edge device that turns official bulletins into local-language voice alerts with no internet, for radio and loudspeakers *(prototype planned)*
-- **sanzay.com.np test suite**: Playwright E2E, accessibility and performance checks on every commit *(building)*
+- [**sanzay.com.np test suite**](https://github.com/sanjaygdrrad/sanzay-site-tests): 72 Playwright tests (desktop + phone) run **daily against the live site**: E2E, regression, accessibility and a performance budget. [![Live site tests](https://github.com/sanjaygdrrad/sanzay-site-tests/actions/workflows/live-tests.yml/badge.svg)](https://sanjaygdrrad.github.io/sanzay-site-tests/)
 
 **🌱 Beyond code**
 - Leading **Merit Nepal**: youth leadership, employability and the SDGs
