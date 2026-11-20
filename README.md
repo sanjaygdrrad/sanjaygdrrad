@@ -36,9 +36,21 @@ I build and lead **software quality** by profession, and **communities** by purp
 
 ### Now
 
-- 🧪 **Fractional QA Manager**: quality strategy and automation for e-commerce, ERP and travel platforms
-- 🛠️ **Building** *Portfolio Builder by Mero Dream*: open source, CV → personal website in a few clicks *(coming soon)*
-- 🌱 **Leading** Merit Nepal: youth leadership, employability and the SDGs
+**🎙️ Research: voices that reach**<br>
+Comparing **LLM-enhanced text-to-speech** pipelines for **multilingual disaster communication in Nepal**: turning official flood and landslide alerts into clear, trustworthy voice messages for radio, phone and loudspeakers, in Nepali and local languages. My focus is **evaluation and safety**: testing for intelligibility, comprehension and factual faithfulness. *(in progress)*
+
+**🧪 At work: Fractional QA Manager**
+- E2E automation with **Playwright** (web) and **Appium** (mobile) for a multivendor e-commerce suite
+- **AI-assisted testing**, API checks (**Postman · REST Assured**) and **JMeter** performance baselines
+- Risk-based release governance for an **Engineering Valuation ERP**, across Nepal & Central Europe time zones
+
+**🔬 In public**
+- **Sachet Eval** (सचेत, *alert*): open evaluation harness and leaderboard for Nepali LLM + text-to-speech, covering faithfulness, intelligibility, latency and offline readiness *(building)*
+- **Offline alert box**: an edge device that turns official bulletins into local-language voice alerts with no internet, for radio and loudspeakers *(prototype planned)*
+- **sanzay.com.np test suite**: Playwright E2E, accessibility and performance checks on every commit *(building)*
+
+**🌱 Beyond code**
+- Leading **Merit Nepal**: youth leadership, employability and the SDGs
 
 ### Writing
 
@@ -57,7 +69,7 @@ Training of Trainers, motivational keynotes for schools, and summit sessions on 
 
 ### Toolbox
 
-`Playwright` `Appium` `Postman` `REST Assured` `JMeter` `BDD / Gherkin` `GitHub Actions` `GitLab CI` `AWS` `Jira` `Confluence` `TestRail` `Scrum / SAFe` `OWASP` `ISO/IEC 27001` `DHS Trusted Tester`
+`Playwright` `Appium` `Postman` `REST Assured` `JMeter` `BDD / Gherkin` `GitHub Actions` `GitLab CI` `AWS` `Jira` `Confluence` `TestRail` `Scrum / SAFe` `OWASP` `ISO/IEC 27001` `DHS Trusted Tester` `LLM evaluation` `Text-to-speech`
 
 ### Find me
 
