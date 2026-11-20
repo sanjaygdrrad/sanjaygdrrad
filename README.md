@@ -1,0 +1,71 @@
+<a href="https://sanzay.com.np">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.png">
+    <img alt="Sanzay Bhandari. Engineering quality software. Building communities that last." src="assets/hero-light.png" width="100%">
+  </picture>
+</a>
+
+I build and lead **software quality** by profession, and **communities** by purpose. One thread runs through both: making things work better for people.
+
+<table>
+<tr>
+<th align="left" width="50%">⌁ The engineer</th>
+<th align="left" width="50%">▲ The changemaker</th>
+</tr>
+<tr valign="top">
+<td>
+
+- **8+ years** in software quality & engineering, **4+** leading QA teams
+- Built a QA function **from zero**: a team of 7, **−35 %** production defects in year one
+- Quality across **57 apps** (ERP, e-commerce, CRM, delivery)
+- Test strategy, automation and release governance, plus **ISO/IEC 27001**-aligned compliance
+- M.E. Computer Engineering · B.E. Software Engineering
+
+</td>
+<td>
+
+- Leading **Merit** in Nepal **since 2016**; founder of **Merit Nepal**
+- **85+** volunteers trained across **3 provinces**
+- Speaker, **Forbes Under 30 Summit**, Berlin
+- Facilitator, **World Merit Summit**, Morocco
+- **National Volunteering Award** (UN Volunteers · MoYS Nepal · UNDP), 2021
+
+</td>
+</tr>
+</table>
+
+### Now
+
+- 🧪 **Fractional QA Manager**: quality strategy and automation for e-commerce, ERP and travel platforms
+- 🛠️ **Building** *Portfolio Builder by Mero Dream*: open source, CV → personal website in a few clicks *(coming soon)*
+- 🌱 **Leading** Merit Nepal: youth leadership, employability and the SDGs
+
+### Writing
+
+I write on [**Infopalette**](https://infopalette.com/user/sbinfopalette/) as `sbinfopalette`, in English and नेपाली:
+
+- [Every Private Message You’ve Ever Sent Could Now Be Exposed](https://infopalette.com/every-private-message-youve-ever-sent-could-now-be-exposed/)
+- [Digital Dreams, Bureaucratic Nightmares: Nepal’s Struggle with E-Governance](https://infopalette.com/digital-nightmares-of-nepal/)
+- [Crash Course to Email Etiquette: Secrets to Winning Every Inbox](https://infopalette.com/crash-course-to-email-etiquette-secrets-to-winning-every-inbox/)
+- [Winning Friends and Influencing People – 10 Steps](https://infopalette.com/how-to-winning-friends-and-influencing-people-10-steps/)
+- [The Mental Trap That’s Quietly Wrecking Your Peace of Mind](https://infopalette.com/the-mental-trap-thats-quietly-wrecking-your-peace-of-mind/)
+
+### Speaking & training
+
+Training of Trainers, motivational keynotes for schools, and summit sessions on youth leadership, careers in tech and cybersecurity awareness.
+**[Book a conversation →](https://bookings.cloud.microsoft/bookwithme/user/28773733c32d4d9cb2e1cc784c09a334%40meritnepal.org?anonymous&ismsaljsauthenabled=true)**
+
+### Toolbox
+
+`Playwright` `Appium` `Postman` `REST Assured` `JMeter` `BDD / Gherkin` `GitHub Actions` `GitLab CI` `AWS` `Jira` `Confluence` `TestRail` `Scrum / SAFe` `OWASP` `ISO/IEC 27001` `DHS Trusted Tester`
+
+### Find me
+
+[**sanzay.com.np**](https://sanzay.com.np) · [LinkedIn](https://www.linkedin.com/in/sanzay-bhandari) · [Infopalette](https://infopalette.com/user/sbinfopalette/) · [Book a meeting](https://bookings.cloud.microsoft/bookwithme/user/28773733c32d4d9cb2e1cc784c09a334%40meritnepal.org?anonymous&ismsaljsauthenabled=true)
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/signal-dark.svg">
+  <img alt="A line that starts as a digital signal, rises into a mountain peak, and ends as people holding hands" src="assets/signal-light.svg" width="100%">
+</picture>
