@@ -45,7 +45,7 @@ Comparing **LLM-enhanced text-to-speech** pipelines for **multilingual disaster 
 - Risk-based release governance for an **Engineering Valuation ERP**, across Nepal & Central Europe time zones
 
 **🔬 In public**
-- **Sachet Eval** (सचेत, *alert*): open evaluation harness and leaderboard for Nepali LLM + text-to-speech, covering faithfulness, intelligibility, latency and offline readiness *(building)*
+- [**Sachet Eval**](https://github.com/sanjaygdrrad/sachet-eval) (सचेत, *alert*): open evaluation harness for AI-generated disaster alerts in Nepal. **v0.1 checks factual faithfulness** (river levels, times, dates and places must survive the rewrite; nothing may be invented), Nepali-aware. Speech intelligibility, latency and offline readiness next. [![CI](https://github.com/sanjaygdrrad/sachet-eval/actions/workflows/ci.yml/badge.svg)](https://github.com/sanjaygdrrad/sachet-eval)
 - **Offline alert box**: an edge device that turns official bulletins into local-language voice alerts with no internet, for radio and loudspeakers *(prototype planned)*
 - [**sanzay.com.np test suite**](https://github.com/sanjaygdrrad/sanzay-site-tests): 72 Playwright tests (desktop + phone) run **daily against the live site**: E2E, regression, accessibility and a performance budget. [![Live site tests](https://github.com/sanjaygdrrad/sanzay-site-tests/actions/workflows/live-tests.yml/badge.svg)](https://sanjaygdrrad.github.io/sanzay-site-tests/)
 
